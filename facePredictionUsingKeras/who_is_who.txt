@@ -1,0 +1,4 @@
+ogawa,0
+naka,1
+kame,2
+su-,3
